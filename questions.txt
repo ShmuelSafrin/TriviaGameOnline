@@ -1,0 +1,7 @@
+{
+        2313: {"question": "How much is 2+2", "answers": ["3", "4", "2", "1"], "correct": 2},
+        4122: {"question": "What is the capital of France?", "answers": ["Lion", "Marseille", "Paris", "Montpellier"], "correct": 3},
+        2222: {"question": "What is the capital of Israel?", "answers": ["Tel-aviv", "Jerusalem", "Haifa", "Ber-shava"], "correct": 2},
+        5555: {"question": "What is the best language?", "answers": ["Hebrew", "English", "Spanish", "Arabic"], "correct": 1}
+        
+}
